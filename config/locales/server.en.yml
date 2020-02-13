@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    discourse_skylight_enabled: 'Enable Discourse Skylight plugin'
+    discourse_skylight_authentication: 'Skylight API key'

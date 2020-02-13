@@ -1,0 +1,4 @@
+plugins:
+  discourse_skylight_enabled:
+    default: true
+    client: true
